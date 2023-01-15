@@ -5,6 +5,11 @@ nav_order: 1
 ---
 
 # Academic Life
+
+<!--Change the "academic life" line to be like a catchphrase/ very short mission statement about me
+Put the profile photo of me here at the top
+Then underneath have some brief info/intro text about me, personal mission statement, etc
+Say here that I'm a current PhD student -->
 ## Research Interests
 I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, ad how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded. You can read more about my Laidlaw research project [here](C:\Users\ryanj\Desktop\Github\RyanJ-Ellison.github.io\docs\assets\img\Laidlaw-Yearbook-2018-My-Profile.pdf).
 
