@@ -6,3 +6,6 @@ url: https://RyanJ-Ellison.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+search_enabled: true
+logo: "/assets/images/Picture_Me.jpg"
