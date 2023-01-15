@@ -23,5 +23,5 @@ During the second year of my PhD at the University of York I became captain of t
 ##Running
 At the start of my PhD the JBU lab took part in a group running challenge to raise money for York Against Cancer [make yac into a hyperlink], the charity that funds our lab. I found that I actually really enjoyed the running, and now do it recreationally to stay fit. 
 In 2022 I took part in the York Run For All 10K to raise money for York Against Cancer.
-
+Put in a photo of me and andrew from the race here
 >
