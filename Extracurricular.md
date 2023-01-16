@@ -4,7 +4,6 @@ layout: home
 nav_order: 5
 ---
 
-Content coming soon
 
 
 ## Kendo
@@ -17,7 +16,7 @@ I competed in several UK tournaments both as an individual and as part of the Ox
 
 During the second year of my PhD at the University of York I became captain of the University Kendo club, which I help to run along with the other committee members. As part of my role as captain I am responsible for planning and running the Kendo club practice sessions. This involves teaching Kendo to people of all abilities, the vast majority of who have never practiced Kendo before.
 
-![Edinburgh uni taikai](\assets\imgages\UniTaikai.jpeg)
+![Edinburgh uni taikai](\assets\images\York_Kendo.jpeg)
 
 ## Running
 At the start of my PhD the JBU lab took part in a group running challenge to raise money for York Against Cancer [make yac into a hyperlink], the charity that funds our lab. I found that I actually really enjoyed the running, and now do it recreationally to stay fit. 
