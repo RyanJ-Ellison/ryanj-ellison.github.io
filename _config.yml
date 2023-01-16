@@ -9,3 +9,5 @@ aux_links:
 
 search_enabled: true
 logo: "/assets/images/Picture_Me.jpg"
+ga_tracking: G-X7P50197W6
+ga_tracking_anonymize_ip: true
