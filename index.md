@@ -11,7 +11,7 @@ Put the profile photo of me here at the top
 Then underneath have some brief info/intro text about me, personal mission statement, etc
 Say here that I'm a current PhD student -->
 
-[Photo of me](assets\images\Picture_Me.jpg)
+![Photo of me](assets\images\Picture_Me.jpg)
 
 ----
 
