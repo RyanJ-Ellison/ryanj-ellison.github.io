@@ -14,7 +14,7 @@ I took up Kendo in my second year of university when I was looking for a way to 
 I competed in several UK tournaments both as an individual and as part of the Oxford University Kendo club. This included first place in the University Taikai non-blackbelt division individuals and third place in the team competition. I also represented the University of Oxford in the annual Varisty competition against the University of Cambridge, which Oxford won.
 
 
-During the second year of my PhD at the University of York I became captain of the University Kendo club, which I help to run along with the other committee members. As part of my role as captain I am responsible for planning and running the Kendo club practice sessions. This involves teaching Kendo to people of all abilities, the vast majority of who have never practiced Kendo before.
+During the second year of my PhD at the University of York I became captain of the University Kendo club, which I help to run along with the other committee members. As part of my role as captain I am responsible for planning and running the Kendo club practice sessions. This involves teaching Kendo to people of all abilities, the vast majority of who have never practiced Kendo before. I currently have >60h of teaching kendo at a beginner level.
 
 ![Edinburgh uni taikai](\assets\images\York_Kendo.jpeg)
 
