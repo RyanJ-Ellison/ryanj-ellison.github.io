@@ -4,12 +4,16 @@ layout: home
 nav_order: 1
 ---
 
-Content coming soom!
+Content coming soon!
 
 <!--Change the "academic life" line to be like a catchphrase/ very short mission statement about me
 Put the profile photo of me here at the top
 Then underneath have some brief info/intro text about me, personal mission statement, etc
 Say here that I'm a current PhD student -->
+## Hi, welcome to my website!
+I’m Ryan, a PhD student at the univeristy of York. I’m a naturally curoius, driven person, with a passion for understanding how things work. As a PhD student, I’m currently researching to try and understand the role of specific mutations in triggering the formation of bladder cancer from healthy tissue. Once the cancer has formed, can these mutations inform us as to how the cancer will behave, for example what treatments it might respond to?
+
+I’m also passionate about science outreach and teaching - I love it when you get a question from someone that shows they’re really engaed in what you’re explaining. When you’re explaining something to a student, it’s very rewarding when you see them have that “Aha!” moment.
 
 ![Photo of me](assets\images\Picture_Me.jpg)
 
