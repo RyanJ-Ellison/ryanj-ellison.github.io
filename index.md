@@ -4,7 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-Content coming soon!
 
 <!--Change the "academic life" line to be like a catchphrase/ very short mission statement about me
 Put the profile photo of me here at the top
