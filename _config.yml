@@ -5,10 +5,11 @@ theme: just-the-docs
 url: https://RyanJ-Ellison.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  LinkedIn: https://www.linkedin.com/in/ryan-ellison-b5b7b4159/
+  Twitter: https://twitter.com/_Ryan_Ellison
 
 search_enabled: true
 logo: "/assets/images/Picture_Me.jpg"
 ga_tracking: G-X7P50197W6
 ga_tracking_anonymize_ip: true
-footer_content: Twitter @_Ryan_Ellison , [LinkedIn](https://www.linkedin.com/in/ryan-ellison-b5b7b4159/)
+footer_content: Twitter @_Ryan_Ellison 

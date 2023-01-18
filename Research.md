@@ -7,8 +7,7 @@ nav_order: 2
 
 
 ## Research Interests
-I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, ad how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded. You can read more about my Laidlaw research project [here](C:\Users\ryanj\Desktop\Github\RyanJ-Ellison.github.io\docs\assets\img\Laidlaw-Yearbook-2018-My-Profile.pdf).
-
+I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, and how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded. You can read more about my Laidlaw research project [here](assets/images/Laidlaw-Yearbook-2018-My-Profile.pdf).
 <!--put in photo of me with my poster-->
 
 
