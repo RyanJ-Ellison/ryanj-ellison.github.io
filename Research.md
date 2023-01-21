@@ -29,9 +29,9 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 
 
 ## Academic Presentations
-- **International Bladder Cancer Network 2022 (Barcelona)** - Flash Talk and Poster presentation
-- **University of York Biology Research Away Day 2022 (York)** - Poster Presentation
-- **British Association for Cancer Research 60th Anniversary Conference (Nottingham)** - Poster Presentation; Awarded funding to attend
+- **International Bladder Cancer Network 2022 (Barcelona)** - [Flash Talk](assets/images/IBCN_Talk.jpg) and [Poster presentation](assets/images/IBCN_Poster.jpg)
+- **University of York Biology Research Away Day 2022 (York)** - [Poster Presentation](assets/images/Me_Andrew_RAD.jpg)
+- **British Association for Cancer Research 60th Anniversary Conference (Nottingham)** - [Poster Presentation](assets/images/Me_BACR.jpg); Awarded funding to attend
 
 ## Awards
 - **British Association for Cancer Research (BACR) Travel grant** - I was awarded a travel grant to attend the BACR 60th Anniversary Meeting in  Nottingham in 2022, where I presented part of my PhD research as a poster.
