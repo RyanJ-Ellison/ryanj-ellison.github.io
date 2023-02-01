@@ -5,6 +5,7 @@ tag: application
 ---
 
 ## What does the PhD application process look like?
+
 Okay, so you’ve [done your research](https://ryanj-ellison.github.io/2023/01/31/_02-Four-things-to-consider.html) and decided that a PhD is for you. You’ve decided on some factors that are important to you (being location, a specific univeristy, subjects that you’re interested in), and you’ve identified some projects you’re interested in applying to. What next?
 
 Well apply of course! But what does this application process look like? That’s what we’re going to discuss in this article.
