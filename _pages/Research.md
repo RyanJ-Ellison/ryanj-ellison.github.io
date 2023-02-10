@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Research Interests
-I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, and how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded. You can read more about my Laidlaw research project [here](assets/images/Laidlaw-Yearbook-2018-My-Profile.pdf).
+I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, and how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded. You can read more about my Laidlaw research project [here](/images/Laidlaw-Yearbook-2018-My-Profile.pdf).
 <!--put in photo of me with my poster-->
 
 
@@ -31,7 +31,7 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 
 ## Academic Presentations
 - **International Bladder Cancer Network 2022 (Barcelona)** - [Flash Talk](/images/IBCN_Talk.jpg) and [Poster presentation](/images/IBCN_Poster.jpg)
-- **University of York Biology Research Away Day 2022 (York)** - [Poster Presentation](assets/images/Me_Andrew_RAD.jpg)
+- **University of York Biology Research Away Day 2022 (York)** - [Poster Presentation](/images/Me_Andrew_RAD.jpg)
 - **British Association for Cancer Research 60th Anniversary Conference (Nottingham)** - [Poster Presentation](/images/Me_BACR.jpg); Awarded funding to attend
 - **Laidlaw Scholarship Research Presentation 2018 (University of Oxford)** - [Poster presentation](/images/Laidlaw_Profile.jpg)
 
