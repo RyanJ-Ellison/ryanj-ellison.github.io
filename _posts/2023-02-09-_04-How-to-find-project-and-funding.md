@@ -22,11 +22,11 @@ With the latter two options (I personally wouldn't consider self-funding) the fu
 
 The first place that I would look for projects is [FindaPhD.com](https://www.findaphd.com/). This is an incredble resource that lists literally thousands of PhD projects that you can search through based on keywords you put in. Searching brings up a list of results where information on each project is displayed such as who the supefvisors are, which university the project is based at, when the application deadline is, and what type of funding (if any) is available. You can also make an account and save projects to a “favourites list”. Note that some funded projects may stipulate who their funding goes to, such as UK-only or european only. If a project doesn't have funding available, then it will be self-funded. While funded projects will typically have a deadline, self-funded projects can usually be applied to all year round.
 
-![Google](assets/images/Image1.png)
-
+![Google](assets\images\Image1.png)
+![Alt text](../assets/images/Image1.png)
 When you click onto the site you'll be brought to the homepage, which will look something like this:
 
-![Home](assets/images/Image2.png)
+![Home](assets\images\Image2.png)
 
 From here the site essentially functions like a search engine for PhD projects that have been listed on there. Here are some of the results if we search for "breast cancer":
 
