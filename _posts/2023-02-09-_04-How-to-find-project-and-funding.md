@@ -22,19 +22,19 @@ With the latter two options (I personally wouldn't consider self-funding) the fu
 
 The first place that I would look for projects is [FindaPhD.com](https://www.findaphd.com/). This is an incredble resource that lists literally thousands of PhD projects that you can search through based on keywords you put in. Searching brings up a list of results where information on each project is displayed such as who the supefvisors are, which university the project is based at, when the application deadline is, and what type of funding (if any) is available. You can also make an account and save projects to a “favourites list”. Note that some funded projects may stipulate who their funding goes to, such as UK-only or european only. If a project doesn't have funding available, then it will be self-funded. While funded projects will typically have a deadline, self-funded projects can usually be applied to all year round.
 
-![findaphdgoogle](../assets/images/findaphdgoogle.png)
+![findaphdgoogle](assets/images/findaphdgoogle.png)
 
 When you click onto the site you'll be brought to the homepage, which will look something like this:
 
-![findaphdhome](../assets/images/findaphdhome.png)
+![findaphdhome](assets/images/findaphdhome.png)
 
 From here the site essentially functions like a search engine for PhD projects that have been listed on there. Here are some of the results if we search for "breast cancer":
 
-![findaphdannotated](../assets/images/findaphdannotated.png)
+![findaphdannotated](assets/images/findaphdannotated.png)
 
 As you can see, for each project, various types of information are listed. (1) Project name, (2) University the project is at, (3) Project description, (4) Project supervisors, (5) application deadline, if any (6) funding status of the project. You can click on the "more details" button to the right to go to the project page, where the full desciption (as well as other info) is listed.
 
-![findaphdproject](../assets/images/findaphdproject.png)
+![findaphdproject](assets/images/findaphdproject.png)
 
 You can find the full project description here. This page also lists the skills that you will learn during the project, some info on their "ideal candidate", some info on the project application process, as well as the documents you have to submit (e.g. personal statement and CV). 
 
