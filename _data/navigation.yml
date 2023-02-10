@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Home"
+    url: /Home/
+
+  - title: "Research"
+    url: /Research/    
+
+  - title: "PhD Blog"
+    url: /PhD Blog/    
+    
+  - title: "Outreach"
+    url: /Outreach/
+        
+  - title: "Extracurricular"
+    url: /Extracuricular/
+    
+  #- title: "CV"
+  #  url: /cv/
+    
+  #- title: "Guide"
+  #  url: /markdown/

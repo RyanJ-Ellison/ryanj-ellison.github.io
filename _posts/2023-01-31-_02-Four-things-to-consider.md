@@ -1,10 +1,10 @@
 ---
-layout: post
 title:  "4 things to consider before doing a PhD"
-tag: 
+date: 2023-01-31
+permalink: 
+tags: 
 ---
 
-## 4 things to consider before doing a PhD
 
 This article is aimed at those considering apply for a PhD, but who don’t know much about what the PhD experience is actually like. Here are 4 things that I think you should consider to help you decide if a PhD is the right path for you.
 

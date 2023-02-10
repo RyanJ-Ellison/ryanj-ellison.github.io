@@ -1,9 +1,12 @@
 ---
-layout: post
 title:  "How to find a (funded) PhD project"
-tags: application, funding
+date: 2023-02-09
+permalink:
+tags: 
+    - applications
+    - funding
 ---
-## How to find a (funded) PhD project
+
 So you've [done your research](https://ryanj-ellison.github.io/2023/01/31/_02-Four-things-to-consider.html) and decided that you do in fact want to apply for a PhD. But how? Where do you look? Well you've come to the right place. This post will tell you where to look for PhD projects, as well as explain how different types of PhD funding work.
 
 **How does PhD funding work?**
@@ -22,21 +25,19 @@ With the latter two options (I personally wouldn't consider self-funding) the fu
 
 The first place that I would look for projects is [FindaPhD.com](https://www.findaphd.com/). This is an incredble resource that lists literally thousands of PhD projects that you can search through based on keywords you put in. Searching brings up a list of results where information on each project is displayed such as who the supefvisors are, which university the project is based at, when the application deadline is, and what type of funding (if any) is available. You can also make an account and save projects to a “favourites list”. Note that some funded projects may stipulate who their funding goes to, such as UK-only or european only. If a project doesn't have funding available, then it will be self-funded. While funded projects will typically have a deadline, self-funded projects can usually be applied to all year round.
 
-![Google](assets\images\Image1.jpg)
-![Alt text](../assets/images/Image1.jpg)
-![Alt text](../assets/images/Image1.png)
+![Google](\images\Image1.jpg)
 
 When you click onto the site you'll be brought to the homepage, which will look something like this:
 
-![Home](assets\images\Image2.jpg)
+![Home](\images\Image2.jpg)
 
 From here the site essentially functions like a search engine for PhD projects that have been listed on there. Here are some of the results if we search for "breast cancer":
 
-![Annotated](assets/images/Image3.jpg)
+![Annotated](/images/Image3.jpg)
 
 As you can see, for each project, various types of information are listed. (1) Project name, (2) University the project is at, (3) Project description, (4) Project supervisors, (5) application deadline, if any (6) funding status of the project. You can click on the "more details" button to the right to go to the project page, where the full desciption (as well as other info) is listed.
 
-![Project](assets/images/Image4.jpg)
+![Project](/images/Image4.jpg)
 
 You can find the full project description here. This page also lists the skills that you will learn during the project, some info on their "ideal candidate", some info on the project application process, as well as the documents you have to submit (e.g. personal statement and CV). 
 
