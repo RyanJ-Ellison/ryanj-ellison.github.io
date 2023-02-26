@@ -19,8 +19,11 @@ If you don't have an assigned travel fund, or you've already used it up, then yo
 Another option is academic societies, such as the British Association for Cancer Research (BACR). If you're a member of any academic society, you can apply for funding to attend conferences several times a year. Typically, these applications require that you present some work at the conference and include an abstract and a letter of recommendation from your supervisor. You'll also need to answer additional questions, such as why you deserve the funding, how attending the conference will benefit your career, and how the funding will help you attend the conference. Different societies offer different levels of financial support, with more money offered for travel abroad than within the UK, as travel abroad is typically more expensive. Some societies may also require you to have one year of membership before you’re eligible to apply for travel grants, so make sure to check before applying.
 The societies that you can apply to for funding will vary based on the field of your work. Below is a list of societies that I’ve previously identified for funding; there are others!. If a society awards you funding to attend a conference, then it is expected that you acknowledge that funding on your poster/in your talk. Also, a typical rule is that you cannot apply for funding from a society if they have awarded you that grant within the past year.
 
-| Society            | Types of grants  |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Society      | Types of grants  |      Money Available        | Main requirements  |
+| --------         | ------ | --------------------------------- | ------ |
+| [British Association for Cancer Research (BACR)](#)    | BACR/AstraZeneca Student Awards  | Description of the item in the list         |   |
+| [Biochemical Society](#)    | General travel grant   | Description of the item in the list         |   |
+| [Biochemical Society](#)     | Online attendance grant   | Description of the item in the list         |   |
+| [Society for Experimental Biology (SEB)](#)| The company of biologists travel grant   | Description of the item in the list         |   |
+| [Society for Experimental Biology (SEB)](#)| SEB annual conference travel grant  | Description of the item in the list         |   |
+| [British Society for Cell Biology (BSCB)](#)| Honor Fell Travel Awards, sponsored by The Company of Biologists  | Description of the item in the list         |   |
