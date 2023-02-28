@@ -13,7 +13,7 @@ Firstly, attending conferences is a great opportunity to be exposed to world exp
 
 **2. Practise your presentation skills**
 
-[I’ve previously written about why developing great presentation skills during your PhD is important](). Presenting a poster or talk at a conference is an excellent way to practise your presentation skills, particularly if you've only presented within your lab group or institution. Presenting in an unfamiliar environment, among a large number of speakers, can be challenging, so it's crucial to get practice.
+[I’ve previously written about why developing great presentation skills during your PhD is important](https://ryanj-ellison.github.io/_5-Presentations-PhD-Students/). Presenting a poster or talk at a conference is an excellent way to practise your presentation skills, particularly if you've only presented within your lab group or institution. Presenting in an unfamiliar environment, among a large number of speakers, can be challenging, so it's crucial to get practice.
 
 **3. Stay up-to date with your field; see great talks and posters**
 
