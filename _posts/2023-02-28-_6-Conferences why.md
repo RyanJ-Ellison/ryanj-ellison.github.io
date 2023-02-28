@@ -1,7 +1,7 @@
 ---
 title:  "Maximizing Your PhD Journey: The Benefits of Attending Conferences"
 date: 2023-02-28
-permalink:
+permalink: /Conferences-Why/
 tags: 
     - conferences
 ---
