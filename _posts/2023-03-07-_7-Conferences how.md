@@ -7,7 +7,7 @@ tags:
 ---
 
 So after reflecting on the importance of attending conferences in the [previous post](https://ryanj-ellison.github.io/_6-Conferences-why/), this time I want to dig into some details about how to attend a conference.
-Submitting an abstract is the first step, and while I won't delve into how to design a good abstract, I encourage you to apply to present at the conference. [Presenting your work has many benefits](https://ryanj-ellison.github.io/Presentations-PhD-Students/), especially at a conference, where you can use your poster as a conversation starter. However, it's crucial to leave enough time to produce your poster or presentation to avoid last-minute stress.
+Submitting an abstract is the first step, and while I won't delve into how to design a good abstract, I encourage you to apply to present at the conference. [Presenting your work has many benefits](https://ryanj-ellison.github.io/_5-Presentations-PhD-Students/), especially at a conference, where you can use your poster as a conversation starter. However, it's crucial to leave enough time to produce your poster or presentation to avoid last-minute stress.
 
 The main point I want to address is sources of funding to support conference attendance.  PhD students typically don’t have a lot of disposable income, so securing funding to cover your conference costs is always a win. Most conferences have a registration fee, as well as travel and hotel expenses. While printing a poster typically won't break the bank, it's still an additional cost to consider. 
 
