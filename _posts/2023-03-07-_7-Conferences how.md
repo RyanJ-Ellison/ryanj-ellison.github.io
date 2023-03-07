@@ -1,12 +1,12 @@
 ---
 title:  "How to find sources of funding to attend conferences as a PhD student"
-date: 2023-03-03
+date: 2023-03-07
 permalink:
 tags: 
     - conferences
 ---
 
-So after reflecting on the importance of attending conferences in the [previous post](), this time I want to dig into some details about how to attend a conference.
+So after reflecting on the importance of attending conferences in the [previous post](https://ryanj-ellison.github.io/_6-Conferences-why/), this time I want to dig into some details about how to attend a conference.
 Submitting an abstract is the first step, and while I won't delve into how to design a good abstract, I encourage you to apply to present at the conference. [Presenting your work has many benefits](https://ryanj-ellison.github.io/Presentations-PhD-Students/), especially at a conference, where you can use your poster as a conversation starter. However, it's crucial to leave enough time to produce your poster or presentation to avoid last-minute stress.
 
 The main point I want to address is sources of funding to support conference attendance.  PhD students typically don’t have a lot of disposable income, so securing funding to cover your conference costs is always a win. Most conferences have a registration fee, as well as travel and hotel expenses. While printing a poster typically won't break the bank, it's still an additional cost to consider. 
@@ -21,9 +21,15 @@ The societies that you can apply to for funding will vary based on the field of 
 
 | Society      | Types of grants  |      Money Available        | Main requirements  |
 | --------         | ------ | --------------------------------- | ------ |
-| [British Association for Cancer Research (BACR)](#)    | BACR/AstraZeneca Student Awards  | Description of the item in the list         |   |
-| [Biochemical Society](#)    | General travel grant   | Description of the item in the list         |   |
-| [Biochemical Society](#)     | Online attendance grant   | Description of the item in the list         |   |
-| [Society for Experimental Biology (SEB)](#)| The company of biologists travel grant   | Description of the item in the list         |   |
-| [Society for Experimental Biology (SEB)](#)| SEB annual conference travel grant  | Description of the item in the list         |   |
-| [British Society for Cell Biology (BSCB)](#)| Honor Fell Travel Awards, sponsored by The Company of Biologists  | Description of the item in the list         |   |
+| British Association for Cancer Research (BACR)    | [BACR/AstraZeneca Student Awards](https://www.bacr.org.uk/bursaries/bacr-student-awards)  | Up to a maximum of £1,000 for overseas meetings (£500 for UK meetings).         |  (1) Must have been a member for at least 1 year (2) Must provide an abstract that has been submitted to the conference
+ |
+| Biochemical Society    | [General travel grant](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/general-travel-grants/)   | Generally between £300 and £700 to assist with cost of attending face-to-face conference         |  (1) Must have been a member for at least 12 months, or six month if you buy a multi-year membership (2) Must provide an abstract that has been submitted to the conference |
+| Biochemical Society     | [Online attendance grant](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/online-attendance-grants/)   | Not specified         | (1) Must have been a member for at least 12 months, or six month if you buy a multi-year membership (2) Must provide an abstract that has been submitted to the conference  |
+| Society for Experimental Biology (SEB)| [The company of biologists travel grant](https://www.sebiology.org/grants/grant-overview.html)   | £250 for travel within home country or for attending virtual conferences or training; £500 for overseas travel        |(1) You must be in the second consecutive year of membership or pay for a multi-year membership when joining, if you qualify for it (2) You must not have received funding from the Company of Biologists in the past 12 months (3) Will not fund research directly related to medicine (4) More likely to be given funding if you are presenting   |
+| Society for Experimental Biology (SEB)| [SEB annual conference travel grant](https://www.sebiology.org/grants/grant-overview.html)  | Up to £800 to attend the SEB annual conference        | (1) Specifically for travel to the SEB annual conference, which you must have registered for and payed to attend (2)You must be in the second consecutive year of membership or pay for a multi-year membership when joining, if you qualify for it (3) Be a first author presenting a poster or talk at the conference
+  |
+| British Society for Cell Biology (BSCB)| [Honor Fell Travel Awards, sponsored by The Company of Biologists](https://bscb.org/competitions-awardsgrants/travel-bursaries/honor-fell-company-of-biologists-travel-awards/#:~:text=Honor%20Fell%20Travel%20Awards%20are,to%20attend%20meetings%20and%20courses.)  | £150 to attend online events and workshops; £400 for meetings and courses within the UK (this now includes the BSCB Spring meeting) ; £500 for meetings and courses within Europe; £750 for meetings and courses in the rest of the world         | (1) Can only apply for one conference a year and six in total.  (2) If membership is payed by direct debit then must be a member for 3 months before applying (3) If membership is not payed by direct debit then must be a member for 1 year before applying (4) Applicant must be contributing a poster or talk  |
+
+A final option for funding is within your department or university. This will be run differently between different institutes, so once again my advice is to speak to your supervisor about this.
+
+I hope this post was useful and that it brought you one step closer to attending that conference you've been thinking of! 
