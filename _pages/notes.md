@@ -18,10 +18,12 @@ Not sure if this is actually necessary. But maybe could have questions such as "
     ->Add in CV page
     ->Add in a resources page
     ->Add in an FAQ tab? [First version Done]
+        ->Fix FAQ formatting [Done]
+->Add in to kendo paragraph that I made and run the website [Done]
 ->Change order of blog posts to have "first post" at bottom - [Done]
 ->Blog posts
     ->Power of presentations [Done]
-    ->Why go to conferences
+    ->Why go to conferences [Done]
     ->How to go to conferences
     ->Imran interview
     ->Sienna Interview
