@@ -24,7 +24,14 @@ Not sure if this is actually necessary. But maybe could have questions such as "
 ->Blog posts
     ->Power of presentations [Done]
     ->Why go to conferences [Done]
-    ->How to go to conferences
+    ->How to go to conferences [Done]
     ->Imran interview
     ->Sienna Interview
     ->Lubna interview
+    ->How to use PubMed advanced search features
+->Add mailing list feature to blog?
+->Books stuff
+    ->12 books in 12 months posts
+    ->Page of books read, including info from notion
+    ->More detailed reviews on each book later?
+->"Research stories" section, where I break down an area of research (linked to a person, e.g. Andrew) so that general public would be able to understand it? This can help me show my writing skills. Should probably try and get interview out first though
