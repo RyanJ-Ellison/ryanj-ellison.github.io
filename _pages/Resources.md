@@ -30,8 +30,12 @@ The reason that I like MyBib is mostly it’s simplicity, as all you have to do 
 It’s difficult for me to describe what notion is really, since there’s so much stuff you can do with it. I use notion as a database and note-taking system, but you can use it to make so much more. I’d highly recommend checking out their website to get a more in-depth explanation of what it can do.
 
 The thing that I like notion for is the ability to make databases, which is how I keep track of references. I start by making a list of tags, which you can see below. 
+
 ![Alt text](../images/Notion_references1.png)
+
+
 I then set up a table in the database, with each column representing some information on the paper. For example the tags, the authors and title, the research questions, methodology, findings, etc. Then I enter a paper, add the correct tags to it (e.g. “FGFR3 involvement in Bladder Cancer Prognosis”), and add in the information from the columns, e.g. what the methodology of the study was. You can already see that this allows you to keep a lot of information in one place. However, you can then have the entry open up a new page, which is what I use to make notes on. So I have papers organised by subject (the tags), and at a glance you can see information such as methodology and research question. Then, if you click on the name of the paper, it takes you to a separate page where you can make detailed notes on the paper. Brilliant!
+
 ![Alt text](../images/Notion_references2.png)
 
 ## Making figures
