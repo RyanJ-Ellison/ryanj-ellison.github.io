@@ -53,6 +53,32 @@ I don’t have much to say on this. I made all of my figures in Illustrator duri
 
 ## Cancer Genomics
 
+**[Catalogue of Somatic Mutations in Cancer (COSMIC)](https://cancer.sanger.ac.uk/cosmic)**
+
+Essentially a large database on the types of mutations and mutational signatures that occur in cancer, and cancer cell lines, amongst other things.
+
+You can either search by gene, in which case you can find information on the types of cancer that gene is mutated in (and the frequency of mutations), or you can look for specific cell lines, and find information the genes that are known to be mutated in that cell line. From this point of view, COSMIC can act similarly to Cell Model Passports below, in helping you find suitable cell models.
+
+However, COSMIC also has information on the types of mutations (e.g. A>C substitution) in the form of mutation signatures, and how the occur in different types of cancers. This can help in hypothesis forming. For example, smoking causes a very specific DNA damage signature, so one could look at different types of cancer to see if this smoking signature is present, and then maybe hypothesise about the involvement of smoking in causing that cancer. Obviously this is an oversimplification, but you get the gist.
+
+I haven’t covered everything here that you can use COSMIC for, just the stuff that I (begin to) understand about it.
+
+**[cBioPortal](https://www.cbioportal.org/)**
+
+Initially I thought this was just a repository of cancer genome datasets (which is in itself pretty cool), but actually it’s so much more. At the basic level, cBioportal acts a repository for cancer studies where patient tumours have been sequenced, and that data has been made publicly available. On the home page you can search by gene, or look for studies by their cancer type (e.g. the Cancer Genome Atlas Muscle-Invasive Bladder Cancer Study).
+
+cBioportal is so much more than just a data repository though, as the site has a suite of built-in visualisation and analysis tools. You can explore and visualise the data to ask questions about survival, gene mutations, and the sex ratio for different cancer types. When looking at individual genes, you can see types of mutations, co-expression and co-mutation with other genes, survival data for mutant vs wildtype, and more.
+
+Dr Andrew Mason has produced a great introduction to cBioPortal and how to use it. His training materials can be found [here](https://asmasonomics.github.io/courses/Intro_cBioPortal_Jan2023).
+
+**[Cell Model Passports](https://cellmodelpassports.sanger.ac.uk/)**
+
+This database is part of a project to characterise cancer cell lines of many different cancer types, to inform on their use as models of cancer. If you go to the homepage and scroll down, you can see an attractive pie-chart graphic that allows you to explore the models either by tissue type or cancer type.
+
+As part of the [study](https://academic.oup.com/nar/article/47/D1/D923/5107576), 8 types of data were collected: mutations, copy number variants, RNA-seq, DNA methylation, CRISPR KO, drug responses, gene fusions, and proteomics. Note that not all types of data are available for each cell line, but you can see at a glance which models have which type of data available.
+
+I think the use here is probably in the exploratory hypothesis stage, but also in looking for suitable models. If for example you wanted a lung cancer cell model that had a mutation in Gene A but was wildtype for Gene B, you could look here.
+
 ## Protein/gene (association) info
 **[UniProt](https://www.uniprot.org/)**
 
