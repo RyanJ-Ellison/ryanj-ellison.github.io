@@ -9,10 +9,8 @@ tags:
 ---
 Today’s post is the first video post! Today I’m talking about how to use Notion’s powerful database features to create a database for your literature references. The video can be found below:
 
+{% include youtube.html id="2D24a-0gaqg" %} 
 
-[![Video thumbnail]
-(https://img.youtube.com/vi/2D24a-0gaqg/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=2D24a-0gaqg)
 
 
 I’ve used a few different referencing systems throughout my masters and PhD. I’ve previously used reference managers such as Zotero and Endnote, but ultimately I found they didn’t match my needs. Personally, I prefer to be able to write notes and other information in the same place where my references are stored. Even if I sort my references in descriptive lists or subfolders, I would find myself going back to these lists and thinking “why is this reference here? What’s important about it?”.
