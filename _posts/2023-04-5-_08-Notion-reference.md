@@ -1,6 +1,6 @@
 ---
 title:  "Reference managing and note-taking with Notion"
-date: 2023-04-07
+date: 2023-04-05
 permalink:
 tags: 
     - Notion
