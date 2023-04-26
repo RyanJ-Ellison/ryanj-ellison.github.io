@@ -23,6 +23,6 @@ main:
 
   - title: "Resources"
     url: /Resources/
-
-- title: "Mailing List"
+    
+  - title: "Mailing List"
     url: /Mailing List/
