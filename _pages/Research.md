@@ -30,6 +30,7 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 
 
 ## Academic Presentations
+- **University of York Graduate Symposium 2023** - [Research Talk](../images/FinalYearTalk.jpg)
 - **International Bladder Cancer Network 2022 (Barcelona)** - [Flash Talk](/images/IBCN_Talk.jpg) and [Poster presentation](/images/IBCN_Poster.jpg)
 - **University of York Biology Research Away Day 2022 (York)** - [Poster Presentation](/images/Me_Andrew_RAD.jpg)
 - **British Association for Cancer Research 60th Anniversary Conference (Nottingham)** - [Poster Presentation](/images/Me_BACR.jpg); Awarded funding to attend
