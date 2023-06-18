@@ -13,6 +13,8 @@ I’m Ryan, a PhD student at the univeristy of York. I’m a naturally curoius, 
 
 I’m also passionate about science outreach and teaching - I love it when you get a question from someone that shows they’re really engaed in what you’re explaining. When you’re explaining something to a student, it’s very rewarding when you see them have that “Aha!” moment. I have >40 hours of experience as a Graduate Teaching Assistant, teaching in lab practicals, problem classes, and marking reports.
 
+My current CV is available [here](/files/RyanEllisonCV_June2023_Final_For_Website.docx)
+
 
 
 
