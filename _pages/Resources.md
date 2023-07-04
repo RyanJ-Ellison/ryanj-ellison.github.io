@@ -15,7 +15,7 @@ This page has some resources, both science-focused and not, that I think could b
 
 A directory of biotech companies, not just in the UK but around the world.
 
-In their company [directory](https://biopharmguy.com/links/country-united-kingdom-all-location.php), they have a list of campanies, where they’re based, a link to their website, and a brief summary of what they work on. This can be a great place to start looking if you think you might want to work in industry but aren’t sure where. Or vice-versa, if you have a particular location in mind and want to find biotech companies that are nearby.
+In their company [directory](https://biopharmguy.com/links/country-united-kingdom-all-location.php), they have a list of companies, where they’re based, a link to their website, and a brief summary of what they work on. This can be a great place to start looking if you think you might want to work in industry but aren’t sure where. Or vice-versa, if you have a particular location in mind and want to find biotech companies that are nearby.
 
 # Research recources
 ## Thesis writing
@@ -79,7 +79,7 @@ As part of the [study](https://academic.oup.com/nar/article/47/D1/D923/5107576),
 
 I think the use here is probably in the exploratory hypothesis stage, but also in looking for suitable models. If for example you wanted a lung cancer cell model that had a mutation in Gene A but was wildtype for Gene B, you could look here.
 
-## Protein/gene (association) info
+## Protein/Gene (association) info
 **[UniProt](https://www.uniprot.org/)**
 
 A database of protein sequence and functional information. Typically useful for an at-a-glance look at what a protein does.
@@ -106,7 +106,7 @@ I usually will use STRING at the exploratory phase to help me interpret results 
 
 The networks that you build can be tweaked in size and number of “shells”. The first shell means that all proteins in the network have to interact with a protein you searched for. Adding a second shell means that you can also see proteins that interact with proteins in the first shell. The network can be exported as an image or in tabular form, e.g. to work with in Excel.
 
-## Experimental genetics/bioinformatics info
+## Experimental Genetics/Bioinformatics info
 **[Ensembl](https://www.ensembl.org/index.html)**
 
 I get the feeling that I’ve only really scratched the surface of what this website could be used for, since I  just use it for primer design. Ensembl describes itself as a “genome browser”; this means that you can get the sequence for a gene, split by intron and exon, as well as look at all the splice isoforms for that gene. This is why the site is useful for primer design.
@@ -119,7 +119,7 @@ A great free tool for designing primers. Works well in combination with the Ense
 
 Only word of warning is that since this is a free service the servers can be a bit slow sometimes, taking at most maybe 5-10 minutes to generate your primers. Considering how useful the tool is, I think this is fine.
 
-**[Reverse Compliment](https://www.bioinformatics.org/sms/rev_comp.html)**
+**[Reverse Complement](https://www.bioinformatics.org/sms/rev_comp.html)**
 
 A very simple but very useful tool. Just pop in any DNA sequence you want and the tool will output the reverse complement for that sequence. I use this when I’m double-checking my primer design.
 
