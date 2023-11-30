@@ -11,7 +11,7 @@ For most people, a PhD is a 3-4 year period of research, during which you try to
 
 **What does a PhD day-to-day look like?**
 
-This is a question that's very difficult to answer, as it will probably be different for every PhD student! I do think there are commonalities though, so I'm planning to write a post about this.
+This is a question that's very difficult to answer, as it will probably be different for every PhD student! To give you an illustrative example, I've writen a few articles about this, which can be found [here](https://ryanjellison.substack.com/p/a-wednesday-in-the-life-of-a-phd) and [here](https://ryanjellison.substack.com/p/a-thursday-in-the-life-of-a-phd-student).
 
 **How many hours a week do you work as a PhD?**
 

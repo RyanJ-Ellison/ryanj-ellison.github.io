@@ -6,6 +6,9 @@ main:
   - title: "Research"
     url: /Research/    
 
+  - title: "Education and Training"
+    url: /Education and Traning/
+
   - title: "PhD Blog"
     url: /PhD Blog/    
     
@@ -21,8 +24,6 @@ main:
   - title: "FAQ"
     url: /FAQ/
 
-  - title: "Resources"
-    url: /Resources/
+  - title: "PhD Resources"
+    url: /PhD Resources/
     
-  - title: "Mailing List"
-    url: /Mailing List/

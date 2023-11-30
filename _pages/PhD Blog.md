@@ -7,6 +7,8 @@ author_profile: true
 ## PhD Blog
 Welcome to my blog! If you're thinking about applying for a PhD, then I hope that these posts will be useful to you!
 
+This page is no longer kept up to date. You can now find my blog [here](https://ryanjellison.substack.com/) on Substack!
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}

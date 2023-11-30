@@ -14,24 +14,4 @@ Not sure if this is actually necessary. But maybe could have questions such as "
 
 -- To-do--
 ----------
-->Add extra pages into navigation bar
-    ->Add in CV page
-    ->Add in a resources page
-    ->Add in an FAQ tab? [First version Done]
-        ->Fix FAQ formatting [Done]
-->Add in to kendo paragraph that I made and run the website [Done]
-->Change order of blog posts to have "first post" at bottom - [Done]
-->Blog posts
-    ->Power of presentations [Done]
-    ->Why go to conferences [Done]
-    ->How to go to conferences [Done]
-    ->Imran interview
-    ->Sienna Interview
-    ->Lubna interview
-    ->How to use PubMed advanced search features
-->Add mailing list feature to blog?
-->Books stuff
-    ->12 books in 12 months posts
-    ->Page of books read, including info from notion
-    ->More detailed reviews on each book later?
-->"Research stories" section, where I break down an area of research (linked to a person, e.g. Andrew) so that general public would be able to understand it? This can help me show my writing skills. Should probably try and get interview out first though
+->Is it possible to add an "RSS feed" style section to my website where I can show my recent substack posts?
